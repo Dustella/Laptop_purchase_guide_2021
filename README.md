@@ -66,7 +66,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 缺点：无明显缺点
 
-联想官方商城二维码：
+![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
 
 ### 性能本： 联想拯救者 R7000 2021
 
@@ -78,9 +78,10 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 可以来校科协信息技术中心解决，还你干净系统
 
+![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
+
 -------
 
 ## 其他价位推荐选购电脑
 
-轻薄本
-
+todo

@@ -73,15 +73,18 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
 * ### 轻薄本： 联想小新Pro16 锐龙版
 
+    ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
+
         配置：R7 5800H / 16G 内存 / 512G SSD
 
         优点：屏幕好；处理器性能很强；续航较好；重量手感较好
 
         缺点：只有一个硬盘位，无法加装硬盘
 
-![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
 
 * ### 性能本： 联想拯救者 R7000 2021
+
+    ![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
 
         配置：R7 5800H / RTX 3050 显卡 / 16G 内存 / 512G SSD
 
@@ -91,7 +94,7 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         可以来校科协信息技术中心解决，还你干净系统
 
-![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
+
 
 -------
 
@@ -103,6 +106,8 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
 * #### 联想小新Air14寸
 
+    ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
+
         配置：i5-1135G7 / 16G 内存 / 512G SSD
 
         优点：重量轻，体积小，厚度薄
@@ -111,6 +116,8 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
 * #### 惠普战66 四代 14寸
 
+    ![20210725202922](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202922.png)
+
         配置：R6-5600U / 16G 内存 / 512G SSD
 
         优点：轻薄，性能释放比较好
@@ -118,6 +125,8 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
         缺点：散热一般；性能一般；键盘手感较差
 
 * #### 华硕 vivobook 14X
+
+    ![20210725203017](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725203017.png)
 
         配置：i5-1135G7 / 16G 内存 / 512G SSD
 

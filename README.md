@@ -71,16 +71,17 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
 综合各项指标，经过长时间讨论，从性价比，稳定性，性能与综合体验等角度比较，我们为您着重推荐两款联想电脑，维修率低且品牌保障售后方便:
 
-* ### 轻薄本： 联想小新Pro16 锐龙版
+* ### 联想小新 Air14 Plus
 
-    ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
+    ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
 
-        配置：R7 5800H / 16G 内存 / 512G SSD
+        配置：R5 5600U / MX 450 / 16G 内存 / 512G SSD
 
-        优点：屏幕好；处理器性能很强；续航较好；重量手感较好
+        优点：屏幕素质高，接口多
 
-        缺点：只有一个硬盘位，无法加装硬盘
+        缺点：键盘面温度控制较差
 
+        重量：1.45kg
 
 * ### 性能本： 联想拯救者 R7000 2021
 
@@ -94,7 +95,7 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         可以来校科协信息技术中心解决，还你干净系统
 
-
+        重量：
 
 -------
 
@@ -113,6 +114,8 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
         优点：重量轻，体积小，厚度薄
 
         缺点：性能释放较差
+
+        
 
 * #### 惠普战66 四代 14寸
 
@@ -138,6 +141,8 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
 * #### 联想YOGA 14s
 
+    ![20210725224047](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224047.png)
+
         配置：i5-11300H  / 16G 内存 / 512 SSD
 
         优点：屏幕素质好，温度控制好
@@ -146,15 +151,21 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
 * #### 灵越 7400
 
+    ![20210725224147](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224147.png)
+
         配置：i5-1135G7 / 16G 内存 / 512G SSD
 
         优点：屏幕素质好，续航好
 
         缺点：键盘面温度控制不佳
 
+        https://www.dell.com/zh-cn/shop/cty/pdp/spd/inspiron-14-7400-laptop?
+
 > ### 4500-6000价位 轻度娱乐本
 
 * #### 联想小新Air 15 2021
+
+    ![20210725224405](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224405.png)
 
         配置：i5-1135G7 / MX 450 / 16G 内存 / 512G SSD
 
@@ -162,7 +173,11 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：键盘手感一般、键盘温度控制差
 
+        https://item.lenovo.com.cn/product/1010327.html
+
 * #### 惠普66 15 四代 i5+MX版本
+
+    ![20210725224846](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224846.png)
 
         配置：i5-1135G7 / MX 450 / 16G 内存 / 512G SSD
 
@@ -170,17 +185,23 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：性能一般，键盘手感差
 
+        https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
+
 > ### 6000-8000 轻度娱乐本
 
-* #### 联想小新 Air14 Plus
+* #### 轻薄本： 联想小新Pro16 锐龙版
 
-        配置：R5 5600U / MX 450 / 16G 内存 / 512G SSD
+    ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
 
-        优点：屏幕素质高，接口多
+        配置：R7 5800H / 16G 内存 / 512G SSD
 
-        缺点：键盘面温度控制较差
+        优点：屏幕好；处理器性能很强；续航较好；重量手感较好
+
+        缺点：只有一个硬盘位，无法加装硬盘
 
 * #### 华为MateBook14 2021
+
+    ![20210725225044](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225044.png)
 
         配置：i5-1135G7 / MX450 / 16G 内存 / 512G SSD
 
@@ -188,9 +209,13 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：接口少，续航差
 
+        https://www.vmall.com/product/10086549931177.html?cid=128347
+
 > ### 4.5k-6k价位 入门性能本
 
 * #### 红米Redmi G 低配版
+
+    ![20210725225205](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225205.png)
 
         配置：i5-10200H / GTX 1650Ti  / 16G 内存 / 512G SSD
 
@@ -198,17 +223,25 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：摄像头位置不合理；高负载噪音大
 
+        https://www.mi.com/redmi-g?product_id=10000254&cfrom=search
+
 * #### 联想R7000 2021
+
+    ![20210725225416](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225416.png)
 
         配置：R5-5600H / RTX 3050 / / 16G 内存 / 512G SSD
 
         优点：性能释放好，键盘手感好，电池容量大
 
         缺点：原装系统捆绑毒瘤软件，高负载噪音大
+        
+        https://item.lenovo.com.cn/product/1014565.html
 
 > ### 6k-7.5k 主流性能本
 
 * #### 联想拯救者 Y7000P 2021 15.6寸
+
+    ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
 
         配置：i5-11400H / RTX 3050Ti / 16G 内存 / 512G SSD
 
@@ -216,7 +249,11 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：高负载下噪音控制一般。系统捆绑软件多。
 
+        https://item.lenovo.com.cn/product/1014938.html
+
 * #### 惠普暗夜精灵7 16.1寸
+
+    ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
 
         配置：i5-11400H / RTX 3050Ti  / 16G 内存 / 512G SSD
 
@@ -224,7 +261,11 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：高负载的噪音大，键盘设计反人类。对音量有要求的同学慎重考虑。
 
+        https://www.hpstore.cn/hp-7-16-b0001tx-16-1-i5-11400h-windows-10-64-rtx3050-60hz-100-srgb-1zone-16g-512ssd.html
+
 * #### 华硕天选2 15.6寸
+
+    ![20210725225958](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225958.png)
 
         配置：R7 5800H / RTX 3050Ti  / 16G 内存 / 512G SSD
 
@@ -232,3 +273,5 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：非高色域版版本天选屏幕素质不如人意。散热差。  
         剪辑视频和处理图像的同学注意规避。
+
+        https://www.asus.com.cn/store/product-4086.html

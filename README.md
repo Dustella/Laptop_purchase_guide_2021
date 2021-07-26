@@ -71,7 +71,7 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
 综合各项指标，经过长时间讨论，从性价比，稳定性，性能与综合体验等角度比较，我们为您着重推荐两款联想电脑，维修率低且品牌保障售后方便:
 
-* ### 联想小新 Air14 Plus
+* ### 联想小新 Air14Plus 锐龙版
 
     ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
 
@@ -82,6 +82,10 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
         缺点：键盘面温度控制较差
 
         重量：1.45kg
+
+        大小：14寸屏幕，厚度18.4mm
+
+        https://item.lenovo.com.cn/product/1013946.html
 
 * ### 性能本： 联想拯救者 R7000 2021
 
@@ -95,7 +99,11 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         可以来校科协信息技术中心解决，还你干净系统
 
-        重量：
+        重量：2.3kg
+
+        大小：15寸屏幕，厚度26.1mm
+
+        https://item.lenovo.com.cn/product/1014564.html
 
 -------
 
@@ -109,33 +117,49 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
     ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
 
-        配置：i5-1135G7 / 16G 内存 / 512G SSD
+        配置：i5-1135G7 / MX350 / 16G 内存 / 512G SSD
 
         优点：重量轻，体积小，厚度薄
 
         缺点：性能释放较差
 
-        
+        重量：1.3kg
+
+        大小：14寸屏幕，厚度20mm
+
+        https://item.lenovo.com.cn/product/1007062.html
 
 * #### 惠普战66 四代 14寸
 
     ![20210725202922](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202922.png)
 
-        配置：R6-5600U / 16G 内存 / 512G SSD
+        配置：R5-5600U / 16G 内存 / 512G SSD
 
         优点：轻薄，性能释放比较好
 
         缺点：散热一般；性能一般；键盘手感较差
 
-* #### 华硕 vivobook 14X
+        重量：1.38kg
 
-    ![20210725203017](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725203017.png)
+        大小：14寸屏幕，厚度20mm
 
-        配置：i5-1135G7 / 16G 内存 / 512G SSD
+        https://item.jd.com/100018079978.html#crumb-wrap
 
-        优点：比较轻薄
+* #### 联想YOGA 13s 2021
 
-        缺点：性能释放较差
+    ![20210726111351](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726111351.png)
+
+        配置：R5-5600U / 16G 内存 / 512G SSD
+
+        优点：屏幕素质高，性能释放强，键盘面温度控制好
+
+        缺点：接口少，键盘手感一般
+
+        重量：1.22kg
+
+        大小：厚度13.8mm，屏幕大小13.3寸
+
+        https://item.lenovo.com.cn/product/1015934.html
 
 > ### 主流办公本 6k-8k
 
@@ -149,6 +173,12 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：接口少，掉漆，键盘手感一般
 
+        重量：1.38kg
+
+        大小：屏幕大小14寸，厚度14.6mm
+
+        https://item.lenovo.com.cn/product/1014611.html
+
 * #### 灵越 7400
 
     ![20210725224147](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224147.png)
@@ -158,6 +188,10 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
         优点：屏幕素质好，续航好
 
         缺点：键盘面温度控制不佳
+
+        重量：1.45kg
+
+        大小：屏幕尺寸14寸，厚度16.7mm
 
         https://www.dell.com/zh-cn/shop/cty/pdp/spd/inspiron-14-7400-laptop?
 
@@ -171,19 +205,27 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         优点：性价比高，性能释放好。
 
-        缺点：键盘手感一般、键盘温度控制差
+        缺点：键盘手感一般、键盘温度控制差，重量控制一般
+
+        重量：1.7kg
+
+        大小：15.6寸屏幕 厚度16.7mm
 
         https://item.lenovo.com.cn/product/1010327.html
 
-* #### 惠普66 15 四代 i5+MX版本
+* #### 惠普66 15 四代 i7+MX版本
 
     ![20210725224846](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224846.png)
 
-        配置：i5-1135G7 / MX 450 / 16G 内存 / 512G SSD
+        配置：i7-1165G7 / MX 450 / 16G 内存 / 512G SSD
 
         优点：接口多，温度、噪音控制好
 
-        缺点：性能一般，键盘手感差
+        缺点：性能差，屏幕素质差，键盘手感差
+
+        重量：1.74kg
+
+        大小：1.56寸屏幕 厚度20mm
 
         https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
 
@@ -197,7 +239,13 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         优点：屏幕好；处理器性能很强；续航较好；重量手感较好
 
-        缺点：只有一个硬盘位，无法加装硬盘
+        缺点：只有一个硬盘位，无法加装硬盘，较重
+
+        重量：1.89kg
+
+        尺寸：16寸屏幕，厚度16.9mm
+
+        https://item.lenovo.com.cn/product/1013857.html
 
 * #### 华为MateBook14 2021
 
@@ -209,7 +257,11 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：接口少，续航差
 
-        https://www.vmall.com/product/10086549931177.html?cid=128347
+        重量：1.49kg
+
+        尺寸：屏幕大小14寸，厚度15.9mm
+
+        https://consumer.huawei.com/cn/laptops/matebook-14-2021/
 
 > ### 4.5k-6k价位 入门性能本
 
@@ -223,6 +275,10 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：摄像头位置不合理；高负载噪音大
 
+        重量：2.5kg
+
+        尺寸：16.1寸大小屏幕，厚度24.35mm
+
         https://www.mi.com/redmi-g?product_id=10000254&cfrom=search
 
 * #### 联想R7000 2021
@@ -234,6 +290,10 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
         优点：性能释放好，键盘手感好，电池容量大
 
         缺点：原装系统捆绑毒瘤软件，高负载噪音大
+
+        重量：2.4kg
+
+        尺寸：屏幕大小15.6寸，厚度25.8mm
         
         https://item.lenovo.com.cn/product/1014565.html
 
@@ -249,6 +309,10 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：高负载下噪音控制一般。系统捆绑软件多。
 
+        重量：2.4kg
+
+        尺寸：屏幕15.6寸，厚度26.1mm
+
         https://item.lenovo.com.cn/product/1014938.html
 
 * #### 惠普暗夜精灵7 16.1寸
@@ -261,11 +325,15 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：高负载的噪音大，键盘设计反人类。对音量有要求的同学慎重考虑。
 
+        重量：2.32kg
+
+        尺寸：屏幕16.1寸，厚度22.5mm
+
         https://www.hpstore.cn/hp-7-16-b0001tx-16-1-i5-11400h-windows-10-64-rtx3050-60hz-100-srgb-1zone-16g-512ssd.html
 
 * #### 华硕天选2 15.6寸
 
-    ![20210725225958](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225958.png)
+    ![20210726141410](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726141410.png)
 
         配置：R7 5800H / RTX 3050Ti  / 16G 内存 / 512G SSD
 
@@ -273,5 +341,9 @@ Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
         缺点：非高色域版版本天选屏幕素质不如人意。散热差。  
         剪辑视频和处理图像的同学注意规避。
+
+        重量：2.07kg
+
+        尺寸：厚度24.3mm，屏幕大小15.6寸
 
         https://www.asus.com.cn/store/product-4086.html

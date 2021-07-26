@@ -106,12 +106,19 @@
 -------
 
 ## 其他价位推荐选购电脑
+### 快捷导航：
+* [主流办公本：4400-5000价位](#jump1)
+* [主流办公本：6000-8000价位](#jump2)
+* [轻度娱乐本：4500-6000价位](#jump3)
+* [轻度娱乐本：6000-8000价位](#jump4)
+* [入门性能本：4500-6000价位](#jump5)
+* [主流性能本：6000-7500价位](#jump6)
 
 -------
 
 > ### 主流办公本 4000-5500价位
 
-* #### 联想小新Air14寸
+* #### <span id="jump1">联想小新Air14寸</span>
 
     ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
 
@@ -159,7 +166,7 @@
 
         https://item.lenovo.com.cn/product/1015934.html
 
-> ### 主流办公本 6k-8k
+> ### <span id="jump2">主流办公本 6k-8k</span>
 
 * #### 联想YOGA 14s
 
@@ -193,7 +200,7 @@
 
         https://www.dell.com/zh-cn/shop/cty/pdp/spd/inspiron-14-7400-laptop?
 
-> ### 轻度娱乐本 4500-6000价位
+> ### <span id="jump3">轻度娱乐本 4500-6000价位</span>
 
 * #### 联想小新Air 15 2021
 
@@ -227,7 +234,7 @@
 
         https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
 
-> ### 轻度娱乐本 6000-8000
+> ### <span id="jump4">轻度娱乐本 6000-8000</span>
 
 * #### 轻薄本： 联想小新Pro16 锐龙版
 
@@ -261,7 +268,7 @@
 
         https://consumer.huawei.com/cn/laptops/matebook-14-2021/
 
-> ### 4.5k-6k价位 入门性能本
+> ### <span id="jump5">4.5k-6k价位 入门性能本</span>
 
 * #### 红米Redmi G 低配版
 
@@ -295,7 +302,7 @@
         
         https://item.lenovo.com.cn/product/1014565.html
 
-> ### 主流性能本 6k-7.5k
+> ### <span id="jump6">主流性能本 6k-7.5k</span>
 
 * #### 联想拯救者 Y7000P 2021 15.6寸
 

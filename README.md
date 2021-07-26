@@ -19,34 +19,34 @@
 * Q: 笔记本电脑怎么有的大，有的小呀？
 
 * A: 电脑分为轻薄本和性能本。
-    轻薄本顾名思义就是机身较薄，适合外出办公使用，但是性能较弱;  
-    性能本一般机身较厚，重量较重，可以胜任大型软件，
-    如工程软件，媒体制作等对性能要求很高的工作，有的人也称之游戏本。  
-    游戏本并不是专门用来打游戏的！  
-    的确有的专业需要高性能的计算机！轻薄本不适合游戏！  
+  轻薄本顾名思义就是机身较薄，适合外出办公使用，但是性能较弱;  
+  性能本一般机身较厚，重量较重，可以胜任大型软件，
+  如工程软件，媒体制作等对性能要求很高的工作，有的人也称之游戏本。  
+  游戏本并不是专门用来打游戏的！  
+  的确有的专业需要高性能的计算机！轻薄本不适合游戏！
 
 * Q: 啊呀，那我该买哪一种呢？
 
 * A: 非工科专业女生建议购买轻薄本，轻松方便办公;  
-    工科专业由于部分涉及高性能应用，建议购买性能本性能本普遍很重
-    （大于3KG），女生购买需要斟酌。  
-    由于较大的体积，所以性能本便携性续航性比较低，  
-    经常背着电脑到处跑的同学要仔细考虑考虑。
+  工科专业由于部分涉及高性能应用，建议购买性能本性能本普遍很重
+  （大于3KG），女生购买需要斟酌。  
+  由于较大的体积，所以性能本便携性续航性比较低，  
+  经常背着电脑到处跑的同学要仔细考虑考虑。
 
 * Q: 我该买多贵的电脑呀？我还听说各种什么i5处理器，i7处理器，显卡什么的，但我又不懂，怎么买？
 
 * A:作为工具，电脑应该首先满足用的顺手，电脑的配置满足使用需求即可  
-    无需购买太过昂贵的电脑，但也不应该为了贪便宜而购买太过于便宜  
-    （两千元以下）的电脑。  
-    而硬件的搭配与需求的契合度是一门学问，如果您没有信心，  
-    建议按照我们的专业推荐购买。
+  无需购买太过昂贵的电脑，但也不应该为了贪便宜而购买太过于便宜  
+  （两千元以下）的电脑。  
+  而硬件的搭配与需求的契合度是一门学问，如果您没有信心，  
+  建议按照我们的专业推荐购买。
 
 * Q:我该买多大内存的电脑呀？内存是什么，硬盘又是什么？
 
 * A:内存是用来存放电脑运行数据的，一般内存越大，运行越流畅。  
-    电脑的内存建议8G起步，16G最好;  
-    硬盘是用来存放资料，文件的。
-    固态硬盘（SSD）大小建议512G起步。 
+  电脑的内存建议8G起步，16G最好;  
+  硬盘是用来存放资料，文件的。
+  固态硬盘（SSD）大小建议512G起步。
 
 * Q:我经常听到英特尔处理器，AMD是什么牌子啊，好用吗？
 
@@ -55,13 +55,13 @@
 * Q: 我去百度上知乎上看了，他们说AMD电脑有兼容性问题！我信不信他们？
 
 * A:AMD电脑在本科阶段的应用场景中不存在兼容性问题。  
-    事实上，只有参与计软专业底层编程（至少到研究生阶段接触）的学生才有可能遇到不兼容问题。  
-    绝大部分场景下，AMD能获得与Intel相同甚至更高的体验。
+  事实上，只有参与计软专业底层编程（至少到研究生阶段接触）的学生才有可能遇到不兼容问题。  
+  绝大部分场景下，AMD能获得与Intel相同甚至更高的体验。
 
 * Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
 
 * A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因为互联网品牌品控、售后难以保证;  
-    未出现外星人、R0G等高端品牌，是因为普通本科生没有使用10000元以上笔记本的需求，故不推荐
+  未出现外星人、R0G等高端品牌，是因为普通本科生没有使用10000元以上笔记本的需求，故不推荐
 
 -------
 
@@ -71,7 +71,7 @@
 
 * ### 联想小新 Air14Plus 锐龙版
 
-    ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
+  ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
 
         配置：R5 5600U / MX 450 / 16G 内存 / 512G SSD
 
@@ -87,7 +87,7 @@
 
 * ### 性能本： 联想拯救者 R7000 2021
 
-    ![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
+  ![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
 
         配置：R7 5800H / RTX 3050 显卡 / 16G 内存 / 512G SSD
 
@@ -113,14 +113,13 @@
 * [轻度娱乐本：6000-8000价位](#jump4)
 * [入门性能本：4500-6000价位](#jump5)
 * [主流性能本：6000-7500价位](#jump6)
-
 -------
-
+<a name="jump1"></a>
 > ### 主流办公本 4000-5500价位
 
-* #### <span id="jump1">联想小新Air14寸</span>
+* #### 联想小新Air14寸
 
-    ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
+  ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
 
         配置：i5-1135G7 / MX350 / 16G 内存 / 512G SSD
 
@@ -136,7 +135,7 @@
 
 * #### 惠普战66 四代 14寸
 
-    ![20210725202922](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202922.png)
+  ![20210725202922](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202922.png)
 
         配置：R5-5600U / 16G 内存 / 512G SSD
 
@@ -152,7 +151,7 @@
 
 * #### 联想YOGA 13s 2021
 
-    ![20210726111351](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726111351.png)
+  ![20210726111351](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726111351.png)
 
         配置：R5-5600U / 16G 内存 / 512G SSD
 
@@ -166,11 +165,12 @@
 
         https://item.lenovo.com.cn/product/1015934.html
 
-> ### <span id="jump2">主流办公本 6k-8k</span>
+<a name="jump2"></a>
+> ### 主流办公本 6k-8k
 
 * #### 联想YOGA 14s
 
-    ![20210725224047](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224047.png)
+  ![20210725224047](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224047.png)
 
         配置：i5-11300H  / 16G 内存 / 512 SSD
 
@@ -186,7 +186,7 @@
 
 * #### 灵越 7400
 
-    ![20210725224147](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224147.png)
+  ![20210725224147](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224147.png)
 
         配置：i5-1135G7 / 16G 内存 / 512G SSD
 
@@ -200,11 +200,12 @@
 
         https://www.dell.com/zh-cn/shop/cty/pdp/spd/inspiron-14-7400-laptop?
 
-> ### <span id="jump3">轻度娱乐本 4500-6000价位</span>
+<a name="jump3"></a>
+> ### 轻度娱乐本 4500-6000价位
 
 * #### 联想小新Air 15 2021
 
-    ![20210725224405](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224405.png)
+  ![20210725224405](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224405.png)
 
         配置：i5-1135G7 / MX 450 / 16G 内存 / 512G SSD
 
@@ -220,7 +221,7 @@
 
 * #### 惠普66 15 四代 i7+MX版本
 
-    ![20210725224846](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224846.png)
+  ![20210725224846](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224846.png)
 
         配置：i7-1165G7 / MX 450 / 16G 内存 / 512G SSD
 
@@ -234,11 +235,12 @@
 
         https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
 
-> ### <span id="jump4">轻度娱乐本 6000-8000</span>
+<a name="jump4"></a>
+> ### 轻度娱乐本 6000-8000
 
 * #### 轻薄本： 联想小新Pro16 锐龙版
 
-    ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
+  ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
 
         配置：R7 5800H / 16G 内存 / 512G SSD
 
@@ -254,7 +256,7 @@
 
 * #### 华为MateBook14 2021
 
-    ![20210725225044](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225044.png)
+  ![20210725225044](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225044.png)
 
         配置：i5-1135G7 / MX450 / 16G 内存 / 512G SSD
 
@@ -268,11 +270,12 @@
 
         https://consumer.huawei.com/cn/laptops/matebook-14-2021/
 
-> ### <span id="jump5">4.5k-6k价位 入门性能本</span>
+<a name="jump5"></a>
+> ### 4.5k-6k价位 入门性能本
 
 * #### 红米Redmi G 低配版
 
-    ![20210725225205](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225205.png)
+  ![20210725225205](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225205.png)
 
         配置：i5-10200H / GTX 1650Ti  / 16G 内存 / 512G SSD
 
@@ -288,7 +291,7 @@
 
 * #### 联想R7000 2021
 
-    ![20210725225416](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225416.png)
+  ![20210725225416](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225416.png)
 
         配置：R5-5600H / RTX 3050 / / 16G 内存 / 512G SSD
 
@@ -302,11 +305,12 @@
         
         https://item.lenovo.com.cn/product/1014565.html
 
-> ### <span id="jump6">主流性能本 6k-7.5k</span>
+<a name="jump6"></a>
+> ### 主流性能本 6k-7.5k
 
 * #### 联想拯救者 Y7000P 2021 15.6寸
 
-    ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
+  ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
 
         配置：i5-11400H / RTX 3050Ti / 16G 内存 / 512G SSD
 
@@ -322,7 +326,7 @@
 
 * #### 惠普暗夜精灵7 16.1寸
 
-    ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
+  ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
 
         配置：i5-11400H / RTX 3050Ti  / 16G 内存 / 512G SSD
 
@@ -338,7 +342,7 @@
 
 * #### 华硕天选2 15.6寸
 
-    ![20210726141410](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726141410.png)
+  ![20210726141410](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726141410.png)
 
         配置：R7 5800H / RTX 3050Ti  / 16G 内存 / 512G SSD
 

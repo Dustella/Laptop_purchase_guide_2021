@@ -1,8 +1,9 @@
-# 南信大校科协笔记本选购指南
+# 南信大校科协推荐 笔记本选购指南
 
 ## 前言
 
-* 尊敬的各位家长，随着开学季的到来，大一新生的电脑购买问题也成为了许多家长比较纠结的问题。为了能让大家买到更高性价比的电脑，南京信息工程大学大学生科学技术协会信息技术部门的干事们根据近年来学生电脑返修的各类数据综合评判，在这里为您给出更专业的电脑推荐，希望家长买的放心，同学用的舒心。文末有科协信技公众号二维码，欢迎咨询
+* 尊敬的各位家长，随着开学季的到来，大一新生的电脑购买问题也成为了许多家长比较纠结的问题。为了能让大家买到更高性价比的电脑，南京信息工程大学大学生科学技术协会信息技术中心的干事们根据近年来学生电脑返修的各类数据综合评判，在这里为您给出更专业的电脑推荐，希望家长买的放心，同学用的舒心。
+* 文末有我们科协信技公众号二维码，欢迎咨询。
 
 ## 选购须知（必读）
 
@@ -10,58 +11,50 @@
 
 * 任何情况下请不要去线下购买电脑。（即便有熟人介绍也请不要去，惨烈的案件见了太多，贪小便宜要吃大亏。）
 
-* 校科协仅提供专业建议，本推荐表仅供参考
+* 校科协仅提供专业建议，本推荐表仅供参考。
 
-* 作为商品难免会有品控问题，如若不幸遇到商品有问题，可以直接找店家换新（京东自营），校科协随时在线提供专业建议与帮助。同时，校科协信息技术中心为全校所有同学免费提供电脑维修维护，问题咨询等服务。
+* 作为商品难免会有品控问题，若不幸发现购买到的商品有问题，可以直接找店家换新（京东自营），校科协随时在线提供专业建议与帮助。同时，校科协信息技术中心为全校所有同学免费提供电脑维修维护，问题咨询等服务。
 
 ## 选购Q＆A（建议阅读）
 
-* Q: 笔记本电脑怎么有的大，有的小呀？
+#### Q: 笔记本电脑怎么有的大，有的小呀？
+ A: 电脑分为轻薄本和性能本。轻薄本顾名思义就是机身较薄，适合外出办公使用，但是性能较弱；
+ 性能本一般机身较厚，重量较重，
+ 可以胜任大型软件，如工程软件，媒体制作等对性能要求很高的工作，有的人也称之游戏本。
+ 游戏本并不是专门用来打游戏的！的确有的专业需要高性能的计算机！轻薄本不适合游戏！  
+    
+#### Q: 我该选择哪一种笔记本电脑呢？
+A: 非工科专业女生建议购买轻薄本，轻松方便办公;  
+    工科专业由于部分涉及高性能应用，建议购买性能本，但是性能本普遍很重
+    （大约2.5-3kg，五六斤，包括充电器在内），女生购买需要斟酌。  
+    由于较大的体积，所以性能本便携性比较低，并且续航时间也会因为比较高的功耗而比较短。  
+    经常背着电脑到处跑的同学要仔细考虑考虑。
 
-* A: 电脑分为轻薄本和性能本。
-  轻薄本顾名思义就是机身较薄，适合外出办公使用，但是性能较弱;  
-  性能本一般机身较厚，重量较重，可以胜任大型软件，
-  如工程软件，媒体制作等对性能要求很高的工作，有的人也称之游戏本。  
-  游戏本并不是专门用来打游戏的！  
-  的确有的专业需要高性能的计算机！轻薄本不适合游戏！
+#### Q: 我该买多贵的电脑呀？我还听说各种什么i5处理器，i7处理器，显卡什么的，但我又不懂，怎么买？
+A:作为工具，电脑应该首先满足用的顺手，电脑的配置满足使用需求即可  
+    无需购买太过昂贵的电脑，但也不应该为了贪便宜而购买太过于便宜  
+    （两千元以下）的电脑。  
+    而硬件的搭配与需求的契合度是一门学问，如果您对自己的选择没有信心，  
+    建议按照我们的专业推荐购买。
 
-* Q: 啊呀，那我该买哪一种呢？
+#### Q:我该买多大内存的电脑呀？内存是什么，硬盘又是什么？
+A:内存是用来存放电脑运行时产生的数据的，一般内存越大，运行越流畅。  
+    电脑的内存建议8G起步，16G最好;  
+    硬盘是用来存放资料，文件的。
+    固态硬盘（SSD）大小建议512G起步。 
+    注：电脑内存和手机内存不是一个概念！
 
-* A: 非工科专业女生建议购买轻薄本，轻松方便办公;  
-  工科专业由于部分涉及高性能应用，建议购买性能本性能本普遍很重
-  （大于3KG），女生购买需要斟酌。  
-  由于较大的体积，所以性能本便携性续航性比较低，  
-  经常背着电脑到处跑的同学要仔细考虑考虑。
+#### Q:我经常听到英特尔处理器，但是AMD是什么牌子啊，好用吗？
+A:电脑的处理器平台主要分为AMD和INTEL。AMD现在性能很强（由于AMD先于lntel使用7nm制程，性能与Intel齐平，而功耗表现更好）因此现在AMD的性价比很高。
 
-* Q: 我该买多贵的电脑呀？我还听说各种什么i5处理器，i7处理器，显卡什么的，但我又不懂，怎么买？
+#### Q: 我去百度上知乎上看了，他们说AMD电脑有兼容性问题！我信不信他们？
+A:AMD电脑在本科阶段的应用场景中不存在兼容性问题。  
+    事实上，只有参与计软专业底层编程（至少到研究生阶段接触）的学生才有可能遇到不兼容问题。  
+    绝大部分场景下，AMD能获得与Intel相同甚至更高的体验。
 
-* A:作为工具，电脑应该首先满足用的顺手，电脑的配置满足使用需求即可  
-  无需购买太过昂贵的电脑，但也不应该为了贪便宜而购买太过于便宜  
-  （两千元以下）的电脑。  
-  而硬件的搭配与需求的契合度是一门学问，如果您没有信心，  
-  建议按照我们的专业推荐购买。
-
-* Q:我该买多大内存的电脑呀？内存是什么，硬盘又是什么？
-
-* A:内存是用来存放电脑运行数据的，一般内存越大，运行越流畅。  
-  电脑的内存建议8G起步，16G最好;  
-  硬盘是用来存放资料，文件的。
-  固态硬盘（SSD）大小建议512G起步。
-
-* Q:我经常听到英特尔处理器，AMD是什么牌子啊，好用吗？
-
-* A:电脑的处理器平台主要分为AMD和INTEL。AMD现在性能很强（由于AMD先于lntel使用7m制程，性能与Intel齐平，而功耗表现更好）因此现在AMD的性价比很高。
-
-* Q: 我去百度上知乎上看了，他们说AMD电脑有兼容性问题！我信不信他们？
-
-* A:AMD电脑在本科阶段的应用场景中不存在兼容性问题。  
-  事实上，只有参与计软专业底层编程（至少到研究生阶段接触）的学生才有可能遇到不兼容问题。  
-  绝大部分场景下，AMD能获得与Intel相同甚至更高的体验。
-
-* Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
-
-* A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因为互联网品牌品控、售后难以保证;  
-  未出现外星人、R0G等高端品牌，是因为普通本科生没有使用10000元以上笔记本的需求，故不推荐
+#### Q:有人推荐我买什么神舟电脑，但我又不太懂，买不买？
+A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因为互联网品牌品控、售后难以保证;  
+    未出现外星人、ROG等高端品牌，是因为普通本科生一般没有使用10000元以上笔记本的需求，故不推荐
 
 -------
 
@@ -69,11 +62,14 @@
 
 综合各项指标，经过长时间讨论，从性价比，稳定性，性能与综合体验等角度比较，我们为您着重推荐两款联想电脑，维修率低且品牌保障售后方便:
 
-* ### 联想小新 Air14Plus 锐龙版
+* ### 轻薄本：联想 小新 Air14 Plus 锐龙版
 
-  ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
+    ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
 
-        配置：R5 5600U / MX 450 / 16G 内存 / 512G SSD
+        配置： CPU：AMD R5-5600U
+			    显卡：独立显卡 英伟达Nvidia MX450
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：屏幕素质高，接口多
 
@@ -83,45 +79,43 @@
 
         大小：14寸屏幕，厚度18.4mm
 
-        https://item.lenovo.com.cn/product/1013946.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1013946.html
 
-* ### 性能本： 联想拯救者 R7000 2021
+* ### 性能本： 联想 拯救者 R7000 2021
 
-  ![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
+    ![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
 
-        配置：R7 5800H / RTX 3050 显卡 / 16G 内存 / 512G SSD
+        配置： CPU：AMD R7-5800H
+			    显卡：独立显卡 英伟达Nvidia RTX 3050
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：综合性能强；
 
-        缺点：原装系统有较多捆绑软件。噪音控制一般。
-
-        可以来校科协信息技术中心解决，还你干净系统
+        缺点：噪音控制一般。
 
         重量：2.3kg
 
         大小：15寸屏幕，厚度26.1mm
 
-        https://item.lenovo.com.cn/product/1014564.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1014564.html
 
 -------
 
 ## 其他价位推荐选购电脑
-### 快捷导航：
-* [主流办公本：4400-5000价位](#jump1)
-* [主流办公本：6000-8000价位](#jump2)
-* [轻度娱乐本：4500-6000价位](#jump3)
-* [轻度娱乐本：6000-8000价位](#jump4)
-* [入门性能本：4500-6000价位](#jump5)
-* [主流性能本：6000-7500价位](#jump6)
+
 -------
-<a name="jump1"></a>
+
 > ### 主流办公本 4000-5500价位
 
-* #### 联想小新Air14寸
+* #### 联想 小新Air14 14寸
 
-  ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
+    ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
 
-        配置：i5-1135G7 / MX350 / 16G 内存 / 512G SSD
+        配置： CPU：Intel i5-1135G7
+			    显卡：独立显卡 英伟达Nvidia MX350
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：重量轻，体积小，厚度薄
 
@@ -131,13 +125,16 @@
 
         大小：14寸屏幕，厚度20mm
 
-        https://item.lenovo.com.cn/product/1007062.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1007062.html
 
-* #### 惠普战66 四代 14寸
+* #### 惠普 战66 四代 14寸
 
-  ![20210725202922](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202922.png)
+    ![20210725202922](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202922.png)
 
-        配置：R5-5600U / 16G 内存 / 512G SSD
+		配置： CPU：AMD R5-5600U
+			    显卡：集成显卡
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：轻薄，性能释放比较好
 
@@ -147,13 +144,16 @@
 
         大小：14寸屏幕，厚度20mm
 
-        https://item.jd.com/100018079978.html#crumb-wrap
+        官网产品介绍：https://item.jd.com/100018079978.html#crumb-wrap
 
-* #### 联想YOGA 13s 2021
+* #### 联想 YOGA 13s 2021
 
-  ![20210726111351](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726111351.png)
+    ![20210726111351](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726111351.png)
 
-        配置：R5-5600U / 16G 内存 / 512G SSD
+        配置： CPU：AMD R5-5600U
+			    显卡：集成显卡
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：屏幕素质高，性能释放强，键盘面温度控制好
 
@@ -163,16 +163,18 @@
 
         大小：厚度13.8mm，屏幕大小13.3寸
 
-        https://item.lenovo.com.cn/product/1015934.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1015934.html
 
-<a name="jump2"></a>
-> ### 主流办公本 6k-8k
+> ### 主流办公本 6000-8000
 
-* #### 联想YOGA 14s
+* #### 联想 YOGA 14s
 
-  ![20210725224047](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224047.png)
+    ![20210725224047](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224047.png)
 
-        配置：i5-11300H  / 16G 内存 / 512 SSD
+        配置： CPU：Intel i5-11300H
+			    显卡：集成显卡
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：屏幕素质好，温度控制好
 
@@ -182,13 +184,16 @@
 
         大小：屏幕大小14寸，厚度14.6mm
 
-        https://item.lenovo.com.cn/product/1014611.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1014611.html
 
-* #### 灵越 7400
+* #### 戴尔 灵越 7400
 
-  ![20210725224147](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224147.png)
+    ![20210725224147](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224147.png)
 
-        配置：i5-1135G7 / 16G 内存 / 512G SSD
+        配置： CPU：Intel i5-1135G7
+			    显卡：集成显卡
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：屏幕素质好，续航好
 
@@ -198,16 +203,18 @@
 
         大小：屏幕尺寸14寸，厚度16.7mm
 
-        https://www.dell.com/zh-cn/shop/cty/pdp/spd/inspiron-14-7400-laptop?
+       官网产品介绍： https://www.dell.com/zh-cn/shop/cty/pdp/spd/inspiron-14-7400-laptop?
 
-<a name="jump3"></a>
 > ### 轻度娱乐本 4500-6000价位
 
-* #### 联想小新Air 15 2021
+* #### 联想 小新Air15 2021
 
-  ![20210725224405](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224405.png)
+    ![20210725224405](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224405.png)
 
-        配置：i5-1135G7 / MX 450 / 16G 内存 / 512G SSD
+        配置： CPU：Intel i5-1135G7
+			    显卡：独立显卡 英伟达Nvidia MX450
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：性价比高，性能释放好。
 
@@ -217,13 +224,16 @@
 
         大小：15.6寸屏幕 厚度16.7mm
 
-        https://item.lenovo.com.cn/product/1010327.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1010327.html
 
-* #### 惠普66 15 四代 i7+MX版本
+* #### 惠普战66 15.6寸 四代 i7+MX版本
 
-  ![20210725224846](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224846.png)
+    ![20210725224846](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224846.png)
 
-        配置：i7-1165G7 / MX 450 / 16G 内存 / 512G SSD
+        配置： CPU：Intel i7-1165G7
+			    显卡：独立显卡 英伟达Nvidia MX450
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：接口多，温度、噪音控制好
 
@@ -233,16 +243,18 @@
 
         大小：1.56寸屏幕 厚度20mm
 
-        https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
+        官网产品介绍：https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
 
-<a name="jump4"></a>
 > ### 轻度娱乐本 6000-8000
 
-* #### 轻薄本： 联想小新Pro16 锐龙版
+* #### 联想 小新Pro16 锐龙版
 
-  ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
+    ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
 
-        配置：R7 5800H / 16G 内存 / 512G SSD
+        配置： CPU：AMD R7-5800H
+			    显卡：集成显卡
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：屏幕好；处理器性能很强；续航较好；重量手感较好
 
@@ -252,13 +264,16 @@
 
         尺寸：16寸屏幕，厚度16.9mm
 
-        https://item.lenovo.com.cn/product/1013857.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1013857.html
 
-* #### 华为MateBook14 2021
+* #### 华为 MateBook14 2021
 
-  ![20210725225044](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225044.png)
+    ![20210725225044](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225044.png)
 
-        配置：i5-1135G7 / MX450 / 16G 内存 / 512G SSD
+        配置： CPU：Intel i5-1135G7
+			    显卡：独立显卡 英伟达Nvidia MX450
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：有触控屏，性能释放强，和华为手机联动
 
@@ -268,16 +283,18 @@
 
         尺寸：屏幕大小14寸，厚度15.9mm
 
-        https://consumer.huawei.com/cn/laptops/matebook-14-2021/
+        官网产品介绍：https://consumer.huawei.com/cn/laptops/matebook-14-2021/
 
-<a name="jump5"></a>
-> ### 4.5k-6k价位 入门性能本
+> ### 4500-6000价位 入门性能本
 
-* #### 红米Redmi G 低配版
+* #### 红米 Redmi G 低配版
 
-  ![20210725225205](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225205.png)
+    ![20210725225205](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225205.png)
 
-        配置：i5-10200H / GTX 1650Ti  / 16G 内存 / 512G SSD
+        配置： CPU：Intel i5-10200H
+			    显卡：独立显卡 英伟达Nvidia GTX 1650Ti
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：综合表现均衡
 
@@ -287,13 +304,16 @@
 
         尺寸：16.1寸大小屏幕，厚度24.35mm
 
-        https://www.mi.com/redmi-g?product_id=10000254&cfrom=search
+        官网产品介绍：https://www.mi.com/redmi-g?product_id=10000254&cfrom=search
 
-* #### 联想R7000 2021
+* #### 联想 拯救者R7000 2021
 
-  ![20210725225416](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225416.png)
+    ![20210725225416](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225416.png)
 
-        配置：R5-5600H / RTX 3050 / / 16G 内存 / 512G SSD
+        配置： CPU：AMD R5-5600H
+			    显卡：独立显卡 英伟达Nvidia RTX 3050
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：性能释放好，键盘手感好，电池容量大
 
@@ -303,16 +323,18 @@
 
         尺寸：屏幕大小15.6寸，厚度25.8mm
         
-        https://item.lenovo.com.cn/product/1014565.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1014565.html
 
-<a name="jump6"></a>
-> ### 主流性能本 6k-7.5k
+> ### 主流性能本 6000-7500
 
-* #### 联想拯救者 Y7000P 2021 15.6寸
+* #### 联想 拯救者 Y7000P 2021 15.6寸
 
-  ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
+    ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
 
-        配置：i5-11400H / RTX 3050Ti / 16G 内存 / 512G SSD
+        配置： CPU：Intel i5-11400H
+			    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：性能强大，DC调光，屏幕素质好
 
@@ -322,13 +344,16 @@
 
         尺寸：屏幕15.6寸，厚度26.1mm
 
-        https://item.lenovo.com.cn/product/1014938.html
+        官网产品介绍：https://item.lenovo.com.cn/product/1014938.html
 
-* #### 惠普暗夜精灵7 16.1寸
+* #### 惠普 暗影精灵7 16.1寸
 
-  ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
+    ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
 
-        配置：i5-11400H / RTX 3050Ti  / 16G 内存 / 512G SSD
+        配置： CPU：Intel i5-11400H
+			    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：性能强大，厚度控制的还可以
 
@@ -338,13 +363,16 @@
 
         尺寸：屏幕16.1寸，厚度22.5mm
 
-        https://www.hpstore.cn/hp-7-16-b0001tx-16-1-i5-11400h-windows-10-64-rtx3050-60hz-100-srgb-1zone-16g-512ssd.html
+        官网产品介绍：https://www.hpstore.cn/hp-7-16-b0001tx-16-1-i5-11400h-windows-10-64-rtx3050-60hz-100-srgb-1zone-16g-512ssd.html
 
-* #### 华硕天选2 15.6寸
+* #### 华硕 天选2 15.6寸
 
-  ![20210726141410](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726141410.png)
+    ![20210726141410](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726141410.png)
 
-        配置：R7 5800H / RTX 3050Ti  / 16G 内存 / 512G SSD
+        配置： CPU：AMD R7-5800H
+			    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
 
         优点：CPU性能强大，性能释放好，适合干重活。
 
@@ -355,4 +383,63 @@
 
         尺寸：厚度24.3mm，屏幕大小15.6寸
 
-        https://www.asus.com.cn/store/product-4086.html
+        官网产品介绍：https://www.asus.com.cn/store/product-4086.html
+
+-------
+
+## 特殊产品系列 苹果MacBook
+
+-------
+
+* 为什么要把这款产品单独拿出来说呢？这款产品由于定价普遍较高，且不满足列入推荐名单的条件，仅适用于有一些特殊需求的用户。
+
+* 注意：如果有需要这款产品的同学，请务必仔细阅读！
+
+> ### 系列特点及注意事项（请仔细阅读）
+
+ 1. 相比普通笔记本电脑，苹果MacBook系列搭载的是macOS操作系统（其他的笔记本电脑一般搭载Windows操作系统），对于某些专业软件来说，可能无法在macOS操作系统上运行。  
+ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的机型可以通过电脑自带的一个工具实现Windows的安装与运行，如果您执着于MacBook，而不能确定您所学的专业是否需要某些特殊的软件只能在Windows操作系统环境下运行的话，建议购买Intel芯片的MacBook。  
+！！注意：苹果最新发布的MacBook系列一律采用了苹果自家的m1芯片，到目前为止，m1芯片的MacBook无法直接运行Windows操作系统，就算是您自己曾经在网上看到可以使用虚拟机软件运行Windows操作系统，这种方案对于大部分想要追求运行稳定并且不愿意折腾的学生来说，也是不可取的，除非你能十分确定你所读的专业完全不需要一些专业的软件，例如只需要打打字，发发文章，就能满足大学四年所有使用电脑的情况，可以购买，但是请您务必三思！  
+
+ 2. MacBook系列一般没有提供自定义接口可以加装硬盘，扩展容量，所以一般选购硬盘容量大一点的为妙，推荐512G。
+
+ 3. MacBook系列通常吸引人的是它的外观，而这正是一些同学看中MacBook的最主要原因之一，如果您只是中意MacBook的外观，请您务必再次仔细阅读以上所说的几点。
+
+ 4. MacBook的两个系列接口都比较少，需要另外购买拓展坞。
+
+> ### 适合人群
+
+ 1. 已经明确自己的专业不需要过分依赖特殊软件的同学，具体参考“系列特点和注意事项”的第一条。
+
+ 2. 不作为主力电脑使用（已经有了其他的Windows电脑作为主力电脑），买来只是为了看看剧，打打字用。
+
+ 3. 苹果全家桶，拥有iPhone和iPad以及其他一系列苹果产品。
+
+ 4. 不玩游戏，苹果macOS平台的游戏少之又少，且MacBook游戏性能较低，想要打游戏的请绕过。
+ 5. 适合美术创作，例如绘图，视频剪辑，音乐制作，新闻媒体。
+
+* ### 主要产品分类及各自特性
+
+ 1. MacBook Air 外观看上去要薄一些，性能较弱，但是续航比较好，平均价格比Pro便宜。
+
+ 2. MacBook Pro 外观相比Air要厚一些，屏幕素质比较好，性能比较强，但是续航一般，平均价格比Air贵。
+
+> ### 推荐产品（MacBook M1系列产品可以在苹果官网上购买，或者在iPhone或iPad上的Apple Store选购）
+
+* #### 2020款 MacBook Pro 13.3寸
+
+![图片1](https://i.loli.net/2021/07/27/Oi34UaS9XlEMZfF.jpg)
+ 
+		配置： CPU：Intel Core i5
+			    显卡：集成显卡
+			    内存：16GB
+			    硬盘：固态硬盘 512GB
+
+        重量：2.78kg
+
+        尺寸：屏幕13.3寸，厚度15.1mm—18.0mm
+
+        京东产品介绍：https://item.jd.com/100013068434.html#none
+
+* ##### 其他产品：京东 https://mall.jd.com/view_page-86020666.html
+

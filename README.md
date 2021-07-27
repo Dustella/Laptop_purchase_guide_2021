@@ -74,18 +74,18 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
 
         配置： CPU：AMD R5-5600U
-			    显卡：独立显卡 英伟达Nvidia MX450
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia MX450
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+    
         优点：屏幕素质高，接口多
-
+    
         缺点：键盘面温度控制较差
-
+    
         重量：1.45kg
-
+    
         大小：14寸屏幕，厚度18.4mm
-
+    
         官网产品介绍：https://item.lenovo.com.cn/product/1013946.html
 
 * ### 性能本： 联想 拯救者 R7000 2021
@@ -93,18 +93,18 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     ![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
 
         配置： CPU：AMD R7-5800H
-			    显卡：独立显卡 英伟达Nvidia RTX 3050
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia RTX 3050
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+        
         优点：综合性能强；
-
+        
         缺点：噪音控制一般。
-
+        
         重量：2.3kg
-
+        
         大小：15寸屏幕，厚度26.1mm
-
+        
         官网产品介绍：https://item.lenovo.com.cn/product/1014564.html
 
 -------
@@ -121,27 +121,27 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 * [主流性能本：6000-7500价位](#jump6)
 * [特殊产品系列 苹果MacBook](#jump7)
 
-<a id="jump1"></a>
 
-> ### 主流办公本 4000-5500价位
+
+> ### <a id="jump1">主流办公本 4000-5500价位</a>
 
 * #### 联想 小新Air14 14寸
 
     ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
 
         配置： CPU：Intel i5-1135G7
-			    显卡：独立显卡 英伟达Nvidia MX350
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia MX350
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+    
         优点：重量轻，体积小，厚度薄
-
+    
         缺点：性能释放较差
-
+    
         重量：1.3kg
-
+    
         大小：14寸屏幕，厚度20mm
-
+    
         官网产品介绍：https://item.lenovo.com.cn/product/1007062.html
 
 * #### 惠普 战66 四代 14寸
@@ -152,57 +152,55 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 			    显卡：集成显卡
 			    内存：16GB
 			    硬盘：固态硬盘 512GB
-
-        优点：轻薄，性能释放比较好
-
-        缺点：散热一般；性能一般；键盘手感较差
-
-        重量：1.38kg
-
-        大小：14寸屏幕，厚度20mm
-
-        官网产品介绍：https://item.jd.com/100018079978.html#crumb-wrap
+	
+    	优点：轻薄，性能释放比较好
+	
+    	缺点：散热一般；性能一般；键盘手感较差
+	
+    	重量：1.38kg
+	
+    	大小：14寸屏幕，厚度20mm
+	
+    	官网产品介绍：https://item.jd.com/100018079978.html#crumb-wrap
 
 * #### 联想 YOGA 13s 2021
 
     ![20210726111351](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726111351.png)
 
         配置： CPU：AMD R5-5600U
-			    显卡：集成显卡
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：集成显卡
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+        
         优点：屏幕素质高，性能释放强，键盘面温度控制好
-
+        
         缺点：接口少，键盘手感一般
-
+        
         重量：1.22kg
-
+        
         大小：厚度13.8mm，屏幕大小13.3寸
-
+        
         官网产品介绍：https://item.lenovo.com.cn/product/1015934.html
 
-<a id="jump2"></a>
-
-> ### 主流办公本 6000-8000
+> ### <a id="jump2">主流办公本 6000-8000</a>
 
 * #### 联想 YOGA 14s
 
     ![20210725224047](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224047.png)
 
         配置： CPU：Intel i5-11300H
-			    显卡：集成显卡
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：集成显卡
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+    
         优点：屏幕素质好，温度控制好
-
+    
         缺点：接口少，掉漆，键盘手感一般
-
+    
         重量：1.38kg
-
+    
         大小：屏幕大小14寸，厚度14.6mm
-
+    
         官网产品介绍：https://item.lenovo.com.cn/product/1014611.html
 
 * #### 戴尔 灵越 7400
@@ -210,41 +208,39 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     ![20210725224147](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224147.png)
 
         配置： CPU：Intel i5-1135G7
-			    显卡：集成显卡
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：集成显卡
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+        
         优点：屏幕素质好，续航好
-
+        
         缺点：键盘面温度控制不佳
-
+        
         重量：1.45kg
-
+        
         大小：屏幕尺寸14寸，厚度16.7mm
 
        官网产品介绍： https://www.dell.com/zh-cn/shop/cty/pdp/spd/inspiron-14-7400-laptop?
 
-<a id="jump3"></a>       
-
-> ### 轻度娱乐本 4500-6000价位
+> ### <a id="jump3">轻度娱乐本 4500-6000价位</a>
 
 * #### 联想 小新Air15 2021
 
     ![20210725224405](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224405.png)
 
         配置： CPU：Intel i5-1135G7
-			    显卡：独立显卡 英伟达Nvidia MX450
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia MX450
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+    
         优点：性价比高，性能释放好。
-
+    
         缺点：键盘手感一般、键盘温度控制差，重量控制一般
-
+    
         重量：1.7kg
-
+    
         大小：15.6寸屏幕 厚度16.7mm
-
+    
         官网产品介绍：https://item.lenovo.com.cn/product/1010327.html
 
 * #### 惠普战66 15.6寸 四代 i7+MX版本
@@ -252,41 +248,39 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     ![20210725224846](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224846.png)
 
         配置： CPU：Intel i7-1165G7
-			    显卡：独立显卡 英伟达Nvidia MX450
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia MX450
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+        
         优点：接口多，温度、噪音控制好
-
+        
         缺点：性能差，屏幕素质差，键盘手感差
-
+        
         重量：1.74kg
-
+        
         大小：1.56寸屏幕 厚度20mm
-
+        
         官网产品介绍：https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
 
-<a id="jump4"></a>
-
-> ### 轻度娱乐本 6000-8000
+> ### <a id="jump4">轻度娱乐本 6000-8000</a>
 
 * #### 联想 小新Pro16 锐龙版
 
     ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
 
         配置： CPU：AMD R7-5800H
-			    显卡：集成显卡
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：集成显卡
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+    
         优点：屏幕好；处理器性能很强；续航较好；重量手感较好
-
+    
         缺点：只有一个硬盘位，无法加装硬盘，较重
-
+    
         重量：1.89kg
-
+    
         尺寸：16寸屏幕，厚度16.9mm
-
+    
         官网产品介绍：https://item.lenovo.com.cn/product/1013857.html
 
 * #### 华为 MateBook14 2021
@@ -294,41 +288,39 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     ![20210725225044](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225044.png)
 
         配置： CPU：Intel i5-1135G7
-			    显卡：独立显卡 英伟达Nvidia MX450
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia MX450
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+        
         优点：有触控屏，性能释放强，和华为手机联动
-
+        
         缺点：接口少，续航差
-
+        
         重量：1.49kg
-
+        
         尺寸：屏幕大小14寸，厚度15.9mm
-
+        
         官网产品介绍：https://consumer.huawei.com/cn/laptops/matebook-14-2021/
 
-<a id="jump5"></a>
-
-> ### 4500-6000价位 入门性能本
+> ### <a id="jump5">4500-6000价位 入门性能本</a>
 
 * #### 红米 Redmi G 低配版
 
     ![20210725225205](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225205.png)
 
         配置： CPU：Intel i5-10200H
-			    显卡：独立显卡 英伟达Nvidia GTX 1650Ti
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia GTX 1650Ti
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+    
         优点：综合表现均衡
-
+    
         缺点：摄像头位置不合理；高负载噪音大
-
+    
         重量：2.5kg
-
+    
         尺寸：16.1寸大小屏幕，厚度24.35mm
-
+    
         官网产品介绍：https://www.mi.com/redmi-g?product_id=10000254&cfrom=search
 
 * #### 联想 拯救者R7000 2021
@@ -336,41 +328,39 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     ![20210725225416](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225416.png)
 
         配置： CPU：AMD R5-5600H
-			    显卡：独立显卡 英伟达Nvidia RTX 3050
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia RTX 3050
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+        
         优点：性能释放好，键盘手感好，电池容量大
-
+        
         缺点：原装系统捆绑毒瘤软件，高负载噪音大
-
+        
         重量：2.4kg
-
+        
         尺寸：屏幕大小15.6寸，厚度25.8mm
         
         官网产品介绍：https://item.lenovo.com.cn/product/1014565.html
 
-<a id="jump6"></a>
-
-> ### 主流性能本 6000-7500
+> ### <a id="jump6">主流性能本 6000-7500</a>
 
 * #### 联想 拯救者 Y7000P 2021 15.6寸
 
     ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
 
         配置： CPU：Intel i5-11400H
-			    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+    
         优点：性能强大，DC调光，屏幕素质好
-
+    
         缺点：高负载下噪音控制一般。系统捆绑软件多。
-
+    
         重量：2.4kg
-
+    
         尺寸：屏幕15.6寸，厚度26.1mm
-
+    
         官网产品介绍：https://item.lenovo.com.cn/product/1014938.html
 
 * #### 惠普 暗影精灵7 16.1寸
@@ -378,18 +368,18 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
 
         配置： CPU：Intel i5-11400H
-			    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+    
         优点：性能强大，厚度控制的还可以
-
+    
         缺点：高负载的噪音大，键盘设计反人类。对音量有要求的同学慎重考虑。
-
+    
         重量：2.32kg
-
+    
         尺寸：屏幕16.1寸，厚度22.5mm
-
+    
         官网产品介绍：https://www.hpstore.cn/hp-7-16-b0001tx-16-1-i5-11400h-windows-10-64-rtx3050-60hz-100-srgb-1zone-16g-512ssd.html
 
 * #### 华硕 天选2 15.6寸
@@ -397,26 +387,24 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     ![20210726141410](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726141410.png)
 
         配置： CPU：AMD R7-5800H
-			    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
-			    内存：16GB
-			    硬盘：固态硬盘 512GB
-
+	    	    显卡：独立显卡 英伟达Nvidia RTX 3050Ti
+	    	    内存：16GB
+	    	    硬盘：固态硬盘 512GB
+        
         优点：CPU性能强大，性能释放好，适合干重活。
-
+        
         缺点：非高色域版版本天选屏幕素质不如人意。散热差。  
         剪辑视频和处理图像的同学注意规避。
-
+        
         重量：2.07kg
-
+        
         尺寸：厚度24.3mm，屏幕大小15.6寸
-
+        
         官网产品介绍：https://www.asus.com.cn/store/product-4086.html
 
-
-<a id="jump7"></a>
 -------
 
-## 特殊产品系列 苹果MacBook
+## <a id="jump7">特殊产品系列 苹果MacBook</a>
 
 -------
 
@@ -458,17 +446,17 @@ ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的�
 * #### 2020款 MacBook Pro 13.3寸
 
 ![图片1](https://i.loli.net/2021/07/27/Oi34UaS9XlEMZfF.jpg)
- 
+
 		配置： CPU：Intel Core i5
 			    显卡：集成显卡
 			    内存：16GB
 			    硬盘：固态硬盘 512GB
-
-        重量：2.78kg
-
-        尺寸：屏幕13.3寸，厚度15.1mm—18.0mm
-
-        京东产品介绍：https://item.jd.com/100013068434.html#none
+	
+	    重量：2.78kg
+	
+	    尺寸：屏幕13.3寸，厚度15.1mm—18.0mm
+	
+	    京东产品介绍：https://item.jd.com/100013068434.html#none
 
 * ##### 其他产品：京东 https://mall.jd.com/view_page-86020666.html
 

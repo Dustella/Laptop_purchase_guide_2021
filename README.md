@@ -485,7 +485,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想拯救者R9000p 2021
 
-    ![20210728154037](https://i.loli.net/2021/07/28/o8XWO4kmwpDqGb2.png)
+    ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
 
         配置：
             CPU：AMD R7-5800H
@@ -505,7 +505,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 惠普暗影精灵 7Plus
 
-    ![20210728155007](https://i.loli.net/2021/07/28/X5pfRvYrDwuN8gK.png)
+    ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
 
         配置：
             CPU：Intel i7-11800H
@@ -565,7 +565,7 @@ ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的�
 
 * ##### 2020款 MacBook Pro 13.3寸
 
-![图片1](https://i.loli.net/2021/07/27/Oi34UaS9XlEMZfF.jpg)
+![Oi34UaS9XlEMZfF](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/Oi34UaS9XlEMZfF.jpg)
 
     配置：
         CPU：Intel Core i5

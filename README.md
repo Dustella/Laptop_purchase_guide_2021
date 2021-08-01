@@ -1,6 +1,6 @@
 # 南信大校科协推荐 笔记本选购指南
 
-![mmexport9cc8ade521eba010cdb481f395dd8d74_16275322](https://i.loli.net/2021/07/29/IspJKEoHjXlcZ4t.gif)
+![IspJKEoHjXlcZ4t](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/IspJKEoHjXlcZ4t.gif)
 
 ## 前言
 
@@ -678,8 +678,5 @@ ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的�
 
     各大官网及ZOL中关村在线
 
-## 南信大校科协 微信公众号
-
- ![mmexport1627532307440](https://i.loli.net/2021/07/29/5fx6Kyzjb9JXDie.jpg)
 ## 南信大校科协 微信公众号 ![20210801140952](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210801140952.png)
 ## 南信大校科协 QQ公众号 ![20210801140913](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210801140913.png)

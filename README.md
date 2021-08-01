@@ -15,7 +15,8 @@
 
 * 任何情况下请不要去线下购买电脑。（即便有熟人介绍也请不要去，惨烈的案件见了太多，贪小便宜要吃大亏。）
 
-* 作为商品难免会有品控问题，若不幸发现购买到的商品有问题，可以直接找店家换新（京东自营），校科协随时在线提供专业建议与帮助的同时，校科协信息技术中心为全校所有同学免费提供电脑维修维护，问题咨询等服务。
+* 作为商品难免会有品控问题，若不幸发现购买到的商品有问题，可以直接找京东自营店家换新（前提：电脑开机之后一旦连接网络，就视为已激活设备，所以务必在连接网络之前检查好收到的新电脑是否完好。)  
+校科协随时在线提供专业建议与帮助的同时，校科协信息技术中心为全校所有同学免费提供电脑维修维护，问题咨询等服务。
 
 * 校科协仅提供专业建议，本推荐表仅供参考。
 
@@ -148,7 +149,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
         大小：14寸屏幕，厚度18.4mm
     
-        官网产品介绍：https://item.lenovo.com.cn/product/1013946.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1013946.html
 
 * ### 性能本： 联想 拯救者 R7000 2021
 
@@ -170,7 +171,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
         
         大小：15寸屏幕，厚度26.1mm
         
-        官网产品介绍：https://item.lenovo.com.cn/product/1014564.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1014564.html
 
 -------
 
@@ -208,7 +209,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
         大小：14寸屏幕，厚度20mm
     
-        官网产品介绍：https://item.lenovo.com.cn/product/1007062.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1007062.html
 
 * #### 惠普 战66 四代 14寸
 
@@ -228,7 +229,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
         大小：14寸屏幕，厚度20mm
 
-        官网产品介绍：https://item.jd.com/100018079978.html#crumb-wrap
+    官网产品介绍：https://item.jd.com/100018079978.html#crumb-wrap
 
 * #### 联想 YOGA 13s 2021
 
@@ -248,7 +249,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
         
         大小：厚度13.8mm，屏幕大小13.3寸
         
-        官网产品介绍：https://item.lenovo.com.cn/product/1015934.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1015934.html
 
 > ### <a name="jump2">主流办公本 6000-8000</a>
 
@@ -270,7 +271,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
         大小：屏幕大小14寸，厚度14.6mm
     
-        官网产品介绍：https://item.lenovo.com.cn/product/1014611.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1014611.html
 
 * #### 戴尔 灵越 7400
 
@@ -312,7 +313,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
         大小：15.6寸屏幕 厚度16.7mm
     
-        官网产品介绍：https://item.lenovo.com.cn/product/1010327.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1010327.html
 
 * #### 惠普战66 15.6寸 四代 i7+MX版本
 
@@ -332,7 +333,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
         
         大小：1.56寸屏幕 厚度20mm
         
-        官网产品介绍：https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
+    官网产品介绍：https://www.hpstore.cn/hp-66-g4-15-6-24f52pc.html
 
 > ### <a name="jump4">轻度娱乐本 6000-8000</a>
 
@@ -354,7 +355,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
         尺寸：16寸屏幕，厚度16.9mm
     
-        官网产品介绍：https://item.lenovo.com.cn/product/1013857.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1013857.html
 
 * #### 华为 MateBook14 2021
 
@@ -374,7 +375,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
         
         尺寸：屏幕大小14寸，厚度15.9mm
         
-        官网产品介绍：https://consumer.huawei.com/cn/laptops/matebook-14-2021/
+    官网产品介绍：https://consumer.huawei.com/cn/laptops/matebook-14-2021/
 
 > ### <a name="jump5">入门性能本 4500-6000价位</a>
 
@@ -396,7 +397,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
         尺寸：16.1寸大小屏幕，厚度24.35mm
     
-        官网产品介绍：https://www.mi.com/redmi-g?product_id=10000254&cfrom=search
+    官网产品介绍：https://www.mi.com/redmi-g?product_id=10000254&cfrom=search
 
 * #### 联想 拯救者R7000 2021
 
@@ -416,7 +417,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
         
         尺寸：屏幕大小15.6寸，厚度25.8mm
         
-        官网产品介绍：https://item.lenovo.com.cn/product/1014565.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1014565.html
 
 > ### <a name="jump6">主流性能本 6000-7500</a>
 
@@ -438,7 +439,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
         尺寸：屏幕15.6寸，厚度26.1mm
     
-        官网产品介绍：https://item.lenovo.com.cn/product/1014938.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1014938.html
 
 * #### 惠普 暗影精灵7 16.1寸
 
@@ -458,7 +459,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
         尺寸：屏幕16.1寸，厚度22.5mm
     
-        官网产品介绍：https://www.hpstore.cn/hp-7-16-b0001tx-16-1-i5-11400h-windows-10-64-rtx3050-60hz-100-srgb-1zone-16g-512ssd.html
+    官网产品介绍：https://www.hpstore.cn/hp-7-16-b0001tx-16-1-i5-11400h-windows-10-64-rtx3050-60hz-100-srgb-1zone-16g-512ssd.html
 
 * #### 华硕 天选2 15.6寸
 
@@ -478,7 +479,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
         
         尺寸：厚度24.3mm，屏幕大小15.6寸
         
-        官网产品介绍：https://www.asus.com.cn/store/product-4086.html
+    官网产品介绍：https://www.asus.com.cn/store/product-4086.html
 
 
 > ### <a name=jump8>中高端性能本 7500+价位</a>
@@ -501,7 +502,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
         尺寸：厚度26.9mm，屏幕大小16寸
 
-        官网产品介绍：https://item.lenovo.com.cn/product/1013491.html
+    官网产品介绍：https://item.lenovo.com.cn/product/1013491.html
 
 * #### 惠普暗影精灵 7Plus
 
@@ -521,7 +522,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
         尺寸：厚度27mm，屏幕大小17寸
 
-        京东链接：https://item.jd.com/100020923600.html
+    京东链接：https://item.jd.com/100020923600.html
 
 ### <a name="jump7">特殊产品系列 苹果MacBook</a>
 

@@ -135,14 +135,11 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
     ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
     
-    配置：
-    
-    ```
-    CPU：AMD R5-5600U  
-    显卡：独立显卡 英伟达Nvidia MX450  
-    内存：16GB  
-    硬盘：固态硬盘 512GB
-    ```
+        配置：
+            CPU：AMD R5-5600U  
+            显卡：独立显卡 英伟达Nvidia MX450  
+            内存：16GB  
+            硬盘：固态硬盘 512GB
     
     价格：5299  
     优点：屏幕素质高，接口多  
@@ -157,14 +154,11 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
     ![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
 
-    配置：
-    
-    ```
-      CPU：AMD R7-5800H  
-      显卡：独立显卡 英伟达Nvidia RTX 3050  
-      内存：16GB  
-      硬盘：固态硬盘 512GB
-    ```
+        配置：
+            CPU：AMD R7-5800H  
+            显卡：独立显卡 英伟达Nvidia RTX 3050  
+            内存：16GB  
+            硬盘：固态硬盘 512GB
     
     价格：6699  
     优点：综合性能强  

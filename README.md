@@ -1,6 +1,6 @@
 # 南信大校科协推荐 笔记本选购指南
 
-![IspJKEoHjXlcZ4t](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/IspJKEoHjXlcZ4t.gif)
+![IspJKEoHjXlcZ4t](external_files/IspJKEoHjXlcZ4t.gif)
 
 ## 前言
 
@@ -133,7 +133,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * ### 轻薄本：联想 小新 Air14 Plus 锐龙版
 
-    ![20210725223950](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725223950.png)
+    ![20210725223950](external_files/20210725223950.png)
     
         配置：
             CPU：AMD R5-5600U  
@@ -152,7 +152,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
     
 * ### 性能本： 联想 拯救者 R7000 2021
 
-    ![20210724205636](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724205636.png)
+    ![20210724205636](external_files/20210724205636.png)
 
         配置：
             CPU：AMD R7-5800H  
@@ -187,7 +187,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想 小新Air14 14寸
 
-    ![20210725202428](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202428.png)
+    ![20210725202428](external_files/20210725202428.png)
 
         配置： 
             CPU：Intel i5-1135G7
@@ -209,7 +209,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 惠普 战66 四代 14寸
 
-    ![20210725202922](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725202922.png)
+    ![20210725202922](external_files/20210725202922.png)
 
         配置： 
             CPU：AMD R5-5600U
@@ -231,7 +231,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想 YOGA 13s 2021
 
-    ![20210726111351](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726111351.png)
+    ![20210726111351](external_files/20210726111351.png)
 
         配置： 
             CPU：AMD R5-5600U
@@ -255,7 +255,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想 YOGA 14s
 
-    ![20210725224047](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224047.png)
+    ![20210725224047](external_files/20210725224047.png)
 
         配置： 
             CPU：Intel i5-11300H
@@ -277,7 +277,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 戴尔 灵越 7400
 
-    ![20210725224147](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224147.png)
+    ![20210725224147](external_files/20210725224147.png)
 
         配置： 
             CPU：Intel i5-1135G7
@@ -302,7 +302,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想 小新Air15 2021
 
-    ![20210725224405](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224405.png)
+    ![20210725224405](external_files/20210725224405.png)
 
         配置：
             CPU：Intel i5-1135G7
@@ -324,7 +324,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 惠普战66 15.6寸 四代 i7+MX版本
 
-    ![20210725224846](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725224846.png)
+    ![20210725224846](external_files/20210725224846.png)
 
         配置： 
             CPU：Intel i7-1165G7
@@ -348,7 +348,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想 小新Pro16 锐龙版
 
-    ![20210724171111](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210724171111.png)
+    ![20210724171111](external_files/20210724171111.png)
 
         配置： 
             CPU：AMD R7-5800H
@@ -370,7 +370,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 华为 MateBook14 2021
 
-    ![20210725225044](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225044.png)
+    ![20210725225044](external_files/20210725225044.png)
 
         配置： 
             CPU：Intel i5-1135G7
@@ -394,7 +394,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 红米 Redmi G 低配版
 
-    ![20210725225205](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225205.png)
+    ![20210725225205](external_files/20210725225205.png)
 
         配置： 
             CPU：Intel i5-10200H
@@ -416,7 +416,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想 拯救者R7000 2021
 
-    ![20210725225416](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225416.png)
+    ![20210725225416](external_files/20210725225416.png)
 
         配置：
         	CPU：AMD R5-5600H
@@ -440,7 +440,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想 拯救者 Y7000P 2021 15.6寸
 
-    ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
+    ![20210725225514](external_files/20210725225514.png)
 
         配置： 
             CPU：Intel i5-11400H
@@ -462,7 +462,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 惠普 暗影精灵7 16.1寸
 
-    ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
+    ![20210725225739](external_files/20210725225739.png)
 
         配置： 
             CPU：Intel i5-11400H
@@ -484,7 +484,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 华硕 天选2 15.6寸
 
-    ![20210726141410](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726141410.png)
+    ![20210726141410](external_files/20210726141410.png)
 
         配置：
             CPU：AMD R7-5800H
@@ -508,7 +508,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 联想拯救者R9000p 2021
 
-    ![20210725225514](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225514.png)
+    ![20210725225514](external_files/20210725225514.png)
 
         配置：
             CPU：AMD R7-5800H
@@ -530,7 +530,7 @@ A:此推荐表中未岀现神舟，炫龙，机械革命等互联网品牌，因
 
 * #### 惠普暗影精灵 7Plus
 
-    ![20210725225739](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210725225739.png)
+    ![20210725225739](external_files/20210725225739.png)
 
         配置：
             CPU：Intel i7-11800H
@@ -594,7 +594,7 @@ ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的�
 
 * ##### 2020款 MacBook Pro 13.3寸
 
-![Oi34UaS9XlEMZfF](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/Oi34UaS9XlEMZfF.jpg)
+![Oi34UaS9XlEMZfF](external_files/Oi34UaS9XlEMZfF.jpg)
 
         配置：
             CPU：Intel Core i5
@@ -633,7 +633,7 @@ ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的�
 
 * #### 惠普 星14S 青春版
 
-  ![20210726193047](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726193047.png)
+  ![20210726193047](external_files/20210726193047.png)
 
         配置：
             CPU：AMD R3-3200
@@ -643,7 +643,7 @@ ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的�
 
 * #### 戴尔 成就3500
 
-  ![20210726192829](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/20210726192829.png)
+  ![20210726192829](external_files/20210726192829.png)
 
         配置：
             CPU：Intel i3-1135G4
@@ -711,5 +711,5 @@ ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的�
 
 ## 南信大校科协 QQ\微信公众号
 
-![文尾-有线条](https://dustella-markdown-imgs.oss-cn-shanghai.aliyuncs.com/images/文尾-有线条.jpg)
+![文尾-有线条](external_files/文尾-有线条.jpg)
 

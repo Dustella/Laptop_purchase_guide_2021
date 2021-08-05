@@ -661,5 +661,9 @@ ps: 对于苹果的早期机型，采用的是Intel处理器，因此早期的�
 
 ## 南信大校科协 QQ\微信公众号
 
+![group_code](external_files/qrcode.png)
+
 ![文尾-有线条](external_files/文尾-有线条.jpg)
+
+
 
